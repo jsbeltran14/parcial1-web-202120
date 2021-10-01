@@ -17,5 +17,4 @@
 5. Ir a **http://localhost:3000** para ver la pantalla inicial
 
 ## Documentación endpoint
-
-Agregue aquí al documentación del endpoint elaborado.
+al obtener la direccion el router hacer el get y lo manda alcontrolador para realizar el fetch. el controlador toma los datos json de los jugadores. por ultimo en script toma los resultados del controlador y pinta el cuerpo de la tabla 
